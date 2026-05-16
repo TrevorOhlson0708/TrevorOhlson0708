@@ -19,15 +19,14 @@ Beyond my university coursework and internship projects, I am passionate about d
 <h1> i really like music :headphones:</h1>
 <p>Here are a few highlights from my vinyl collection, spanning alternative rock, hip-hop, and modern pop:</p>
 
-### My Favorite Tracks
+### 🎵 My Favorite Tracks
 
 | | | | | |
 | :---: | :---: | :---: | :---: | :---: |
 | <img src="track_1.svg" width="300" /> | <img src="track_2.svg" width="300" /> | <img src="track_3.svg" width="300" /> | <img src="track_4.svg" width="300" /> | <img src="track_5.svg" width="300" /> |
 | <img src="track_6.svg" width="300" /> | <img src="track_7.svg" width="300" /> | <img src="track_8.svg" width="300" /> | <img src="track_9.svg" width="300" /> | <img src="track_10.svg" width="300" /> |
 
-  <i>inspired by <a href="https://github.com/andyruwruw">andyruwruw</a></i>
-</p>
+_inspired by [andymruw](https://github.com/andymruw)_
 
 ---
 # 💻 Tech Stack:
