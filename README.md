@@ -19,14 +19,12 @@ Beyond my university coursework and internship projects, I am passionate about d
 <h1> i really like music :headphones:</h1>
 <p>Here are a few highlights from my vinyl collection, spanning alternative rock, hip-hop, and modern pop:</p>
 
-### ⚡ Current Favorites
-| 🏛️ Ode to the Mets | 🇬🇧 Don't Look Back in Anger | 🛫 Concorde | 🎤 Creep (Live) | 💧 Let Down |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/TrevorOhlson0708/TrevorOhlson0708/main/track_1.svg" width="150"> | <img src="https://raw.githubusercontent.com/TrevorOhlson0708/TrevorOhlson0708/main/track_2.svg" width="150"> | <img src="https://raw.githubusercontent.com/TrevorOhlson0708/TrevorOhlson0708/main/track_3.svg" width="150"> | <img src="https://raw.githubusercontent.com/TrevorOhlson0708/TrevorOhlson0708/main/track_4.svg" width="150"> | <img src="https://raw.githubusercontent.com/TrevorOhlson0708/TrevorOhlson0708/main/track_5.svg" width="150"> |
+### My Favorite Tracks
+
 | | | | | |
-| **✨ Perfect** | **👗 Girl of the Year** | **🕯️ They'll Only Miss You...** | **🌌 23** | **🍏 Rotten Apple** |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/TrevorOhlson0708/TrevorOhlson0708/main/track_6.svg" width="150"> | <img src="https://raw.githubusercontent.com/TrevorOhlson0708/TrevorOhlson0708/main/track_7.svg" width="150"> | <img src="https://raw.githubusercontent.com/TrevorOhlson0708/TrevorOhlson0708/main/track_8.svg" width="150"> | <img src="https://raw.githubusercontent.com/TrevorOhlson0708/TrevorOhlson0708/main/track_9.svg" width="150"> | <img src="https://raw.githubusercontent.com/TrevorOhlson0708/TrevorOhlson0708/main/track_10.svg" width="150"> |
+| <img src="track_1.svg" width="300" /> | <img src="track_2.svg" width="300" /> | <img src="track_3.svg" width="300" /> | <img src="track_4.svg" width="300" /> | <img src="track_5.svg" width="300" /> |
+| <img src="track_6.svg" width="300" /> | <img src="track_7.svg" width="300" /> | <img src="track_8.svg" width="300" /> | <img src="track_9.svg" width="300" /> | <img src="track_10.svg" width="300" /> |
 
   <i>inspired by <a href="https://github.com/andyruwruw">andyruwruw</a></i>
 </p>
