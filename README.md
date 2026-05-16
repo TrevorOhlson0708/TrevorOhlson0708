@@ -20,23 +20,17 @@ Beyond my university coursework and internship projects, I am passionate about d
 <p>Here are a few highlights from my vinyl collection, spanning alternative rock, hip-hop, and modern pop:</p>
 
 ### ⚡ Current Favorites
-<table align="center">
-  <tr>
-    <td align="center">🏛️ Ode to the Mets<br><br><img src="https://img2.storyblok.com/140x140/filters:quality(80)/f/64010/600x600/e6d5e1744b/the-strokes-the-new-abnormal.jpg" width="140" height="140"><br><br><b>The Strokes</b></td>
-    <td align="center">🇬🇧 Don't Look Back in Anger<br><br><img src="https://img2.storyblok.com/140x140/filters:quality(80)/f/64010/600x600/3e9566ba72/oasis-whats-the-story.jpg" width="140" height="140"><br><br><b>Oasis</b></td>
-    <td align="center">🛫 Concorde<br><br><img src="https://img2.storyblok.com/140x140/filters:quality(80)/f/64010/600x600/775b5b0ce5/bcnr-ants-from-up-there.jpg" width="140" height="140"><br><br><b>Black Country, New Road</b></td>
-  </tr>
-  <tr>
-    <td align="center">🎤 Creep (Live)<br><br><img src="https://img2.storyblok.com/140x140/filters:quality(80)/f/64010/600x600/7d4e5f7a08/stone-temple-pilots-core.jpg" width="140" height="140"><br><br><b>Stone Temple Pilots</b></td>
-    <td align="center">💧 Let Down<br><br><img src="https://img2.storyblok.com/140x140/filters:quality(80)/f/64010/600x600/2cb4a496fb/radiohead-ok-computer.jpg" width="140" height="140"><br><br><b>Radiohead</b></td>
-    <td align="center">✨ Perfect<br><br><img src="https://img2.storyblok.com/140x140/filters:quality(80)/f/64010/600x600/12f9b14b8a/smashing-pumpkins-adore.jpg" width="140" height="140"><br><br><b>The Smashing Pumpkins</b></td>
-  </tr>
-  <tr>
-    <td align="center">👗 Girl of the Year<br><br><img src="https://img2.storyblok.com/140x140/filters:quality(80)/f/64010/600x600/d77bc882bb/beach-house-7.jpg" width="140" height="140"><br><br><b>Beach House</b></td>
-    <td align="center">🕯️ They'll Only Miss You...<br><br><img src="https://img2.storyblok.com/140x140/filters:quality(80)/f/64010/600x600/4c3bc882fa/carissas-wierd-songs.jpg" width="140" height="140"><br><br><b>Carissa's Wierd</b></td>
-    <td align="center">🌌 23<br><br><img src="https://img2.storyblok.com/140x140/filters:quality(80)/f/64010/600x600/2e6b5c90ab/jimmy-eat-world-futures.jpg" width="140" height="140"><br><br><b>Jimmy Eat World</b></td>
-  </tr>
-</table>
+| 🏛️ Ode to the Mets | 🇬🇧 Don't Look Back in Anger | 🛫 Concorde |
+| :---: | :---: | :---: |
+| <img src="https://upload.wikimedia.org/wikipedia/en/e/e0/The_Strokes_-_The_New_Abnormal.png" width="140" height="140"> | <img src="https://upload.wikimedia.org/wikipedia/en/d/df/Oasis_-_Whats_the_Story_Morning_Glory_album_cover.jpg" width="140" height="140"> | <img src="https://upload.wikimedia.org/wikipedia/en/c/c2/Black_Country%2C_New_Road_-_Ants_from_Up_There.png" width="140" height="140"> |
+| **The Strokes** | **Oasis** | **Black Country, New Road** |
+| **🎤 Creep (Live)** | **💧 Let Down** | **✨ Perfect** |
+| <img src="https://upload.wikimedia.org/wikipedia/en/4/42/StoneTemplePilotsCore.jpg" width="140" height="140"> | <img src="https://upload.wikimedia.org/wikipedia/en/a/a1/Radiohead.okcomputer.albumart.jpg" width="140" height="140"> | <img src="https://upload.wikimedia.org/wikipedia/en/3/30/The_Smashing_Pumpkins_-_Adore.jpg" width="140" height="140"> |
+| **Stone Temple Pilots** | **Radiohead** | **The Smashing Pumpkins** |
+| **👗 Girl of the Year** | **🕯️ They'll Only Miss You...** | **🌌 23** |
+| <img src="https://upload.wikimedia.org/wikipedia/en/c/c5/Beach_House_-_7.png" width="140" height="140"> | <img src="https://upload.wikimedia.org/wikipedia/en/3/3d/Songs_About_Leaving.jpg" width="140" height="140"> | <img src="https://upload.wikimedia.org/wikipedia/en/0/00/Jimmy_eat_world_-_futures.jpg" width="140" height="140"> |
+| **Beach House** | **Carissa's Wierd** | **Jimmy Eat World** |
+
   <i>inspired by <a href="https://github.com/andyruwruw">andyruwruw</a></i>
 </p>
 
