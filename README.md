@@ -1,14 +1,42 @@
-# Hello World, i'm Trevor Ohlson
-I'm currently a sophmore at folsom Lake Collage pursuing a computure science degree. I am also developing an AI-powered baseball swing analysis system that provides professional-level coaching feedback. I’m interested in working with others on AI-powered applications, full-stack web projects, and performance-driven C++ or Python systems. I enjoy building tools that solve real-world problems efficiently and cleanly.<br>
+# Hello World, I'm Trevor Ohlson 👋
 
-- Always open to feedback or criticism on software architecture, optimization techniques, and integrating AI/ML into existing projects <br>
+I am an incoming Computer Science student transferring to California State University, Sacramento, and a Technical Software Intern at Matter Advantage. I specialize in backend business logic, desktop integration tools, and automation pipelines—primarily working within the C# and Python ecosystems.
 
-- Ask me about C++ programming, Python scripting, web development, algorithm design, or how to structure a scalable project from scratch <br>
+Beyond my university coursework and internship projects, I am passionate about data structures, algorithmic problem-solving, and building high-performance systems that solve real-world complexities cleanly.
 
-- Started coding by accident back in 2021 <br>
+### 🛠️ What I'm Up To:
+* **Internship Engineering:** Contributing to an Avalonia UI desktop bridge application and a high-utility C# command-line PST automation generator for enterprise integration testing.
+* **Side Projects:** Developing an AI-powered baseball swing analysis system designed to provide professional-level coaching feedback.
+* **Interview Prep:** Actively solving algorithmic challenges using the LeetCode / NeetCode curriculum to master data structures and optimize runtime complexity.
 
-Commited to continuous learning and pushing the boundries of AI and software engenering.
+### 💬 Let's Connect:
+* **Ask me about:** C# development, Python scripting, object-oriented software architecture, or backend automation pipelines.
+* **Fun Fact:** Started coding by accident back in 2021 and haven't stopped building since.
+* **Professional Network:** [Connect with me on LinkedIn](https://linkedin.com/in/trevor-ohlson)
 
+---
 
+<h1> i really like music :headphones:</h1>
+<p>Here are a few highlights from my vinyl collection, spanning alternative rock, hip-hop, and modern pop:</p>
+
+### 🏆 All-Time Favorites
+| 💿 Is This It | 🦋 To Pimp a Butterfly | 🌅 After Hours |
+| :---: | :---: | :---: |
+| <img src="https://upload.wikimedia.org/wikipedia/en/0/09/The_Strokes_-_Is_This_It_Flipped.png" width="140" height="140"> | <img src="https://upload.wikimedia.org/wikipedia/en/f/f6/Kendrick_Lamar_-_To_Pimp_a_Butterfly.png" width="140" height="140"> | <img src="https://upload.wikimedia.org/wikipedia/en/c/c1/The_Weeknd_-_After_Hours.png" width="140" height="140"> |
+| **The Strokes** | **Kendrick Lamar** | **The Weeknd** |
+
+### ⚡ Current Favorites
+| 🎸 Room on Fire | 🎧 Good Kid, M.A.A.D City | 🎈 House of Balloons |
+| :---: | :---: | :---: |
+| <img src="https://upload.wikimedia.org/wikipedia/en/c/c9/The_Strokes_-_Room_on_Fire.png" width="140" height="140"> | <img src="https://upload.wikimedia.org/wikipedia/en/8/83/Kendrick_Lamar_-_Good_Kid%2C_M.A.A.D_City.png" width="140" height="140"> | <img src="https://upload.wikimedia.org/wikipedia/en/a/a7/The_Weeknd_-_House_of_Balloons.png" width="140" height="140"> |
+| **The Strokes** | **Kendrick Lamar** | **The Weeknd** |
+
+<p align="left">
+  <i>inspired by <a href="https://github.com/andyruwruw">andyruwruw</a></i>
+</p>
+
+---
+
+## 💻 Tech Stack:
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
