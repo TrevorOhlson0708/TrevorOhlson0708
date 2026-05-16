@@ -20,16 +20,23 @@ Beyond my university coursework and internship projects, I am passionate about d
 <p>Here are a few highlights from my vinyl collection, spanning alternative rock, hip-hop, and modern pop:</p>
 
 ### ⚡ Current Favorites
-| 🏛️ Ode to the Mets | 🇬🇧 Don't Look Back in Anger | 🛫 Concorde |
-| :---: | :---: | :---: |
-| <img src="https://coverartarchive.org/release/8e2b8655-bd03-4c92-bc10-ef50e5e0cf0a/26190772591-250.jpg" width="140" height="140"> | <img src="https://coverartarchive.org/release/a34a81b3-4f93-4cb5-8d57-1959779df5fb/6684728561-250.jpg" width="140" height="140"> | <img src="https://coverartarchive.org/release/a1d5e656-7883-49df-ba27-be0c8c0fcf9d/31422780133-250.jpg" width="140" height="140"> |
-| **The Strokes** | **Oasis** | **Black Country, New Road** |
-| **🎤 Creep (Live)** | **💧 Let Down** | **✨ Perfect** |
-| <img src="https://coverartarchive.org/release/12d0a071-70bf-407a-9a9a-76081be78263/13596541604-250.jpg" width="140" height="140"> | <img src="https://coverartarchive.org/release/f2066fa4-3707-4e68-bd9c-f91b5c478a0c/12217641258-250.jpg" width="140" height="140"> | <img src="https://coverartarchive.org/release/0b5514f7-e24c-47fc-8f72-736f86c23b20/22896590515-250.jpg" width="140" height="140"> |
-| **Stone Temple Pilots** | **Radiohead** | **The Smashing Pumpkins** |
-| **👗 Girl of the Year** | **🕯️ They'll Only Miss You...** | **🌌 23** |
-| <img src="https://coverartarchive.org/release/df99f1fa-6f02-45e0-b6f7-df2095f90382/19445229648-250.jpg" width="140" height="140"> | <img src="https://coverartarchive.org/release/0d381048-0ca1-45f8-b397-900f68d9f4e2/8514757271-250.jpg" width="140" height="140"> | <img src="https://coverartarchive.org/release/c59d5fb3-9609-4361-b547-7589ed976fa8/6638069512-250.jpg" width="140" height="140"> |
-| **Beach House** | **Carissa's Wierd** | **Jimmy Eat World** |
+<table align="center">
+  <tr>
+    <td align="center">🏛️ Ode to the Mets<br><br><img src="https://img2.storyblok.com/140x140/filters:quality(80)/f/64010/600x600/e6d5e1744b/the-strokes-the-new-abnormal.jpg" width="140" height="140"><br><br><b>The Strokes</b></td>
+    <td align="center">🇬🇧 Don't Look Back in Anger<br><br><img src="https://img2.storyblok.com/140x140/filters:quality(80)/f/64010/600x600/3e9566ba72/oasis-whats-the-story.jpg" width="140" height="140"><br><br><b>Oasis</b></td>
+    <td align="center">🛫 Concorde<br><br><img src="https://img2.storyblok.com/140x140/filters:quality(80)/f/64010/600x600/775b5b0ce5/bcnr-ants-from-up-there.jpg" width="140" height="140"><br><br><b>Black Country, New Road</b></td>
+  </tr>
+  <tr>
+    <td align="center">🎤 Creep (Live)<br><br><img src="https://img2.storyblok.com/140x140/filters:quality(80)/f/64010/600x600/7d4e5f7a08/stone-temple-pilots-core.jpg" width="140" height="140"><br><br><b>Stone Temple Pilots</b></td>
+    <td align="center">💧 Let Down<br><br><img src="https://img2.storyblok.com/140x140/filters:quality(80)/f/64010/600x600/2cb4a496fb/radiohead-ok-computer.jpg" width="140" height="140"><br><br><b>Radiohead</b></td>
+    <td align="center">✨ Perfect<br><br><img src="https://img2.storyblok.com/140x140/filters:quality(80)/f/64010/600x600/12f9b14b8a/smashing-pumpkins-adore.jpg" width="140" height="140"><br><br><b>The Smashing Pumpkins</b></td>
+  </tr>
+  <tr>
+    <td align="center">👗 Girl of the Year<br><br><img src="https://img2.storyblok.com/140x140/filters:quality(80)/f/64010/600x600/d77bc882bb/beach-house-7.jpg" width="140" height="140"><br><br><b>Beach House</b></td>
+    <td align="center">🕯️ They'll Only Miss You...<br><br><img src="https://img2.storyblok.com/140x140/filters:quality(80)/f/64010/600x600/4c3bc882fa/carissas-wierd-songs.jpg" width="140" height="140"><br><br><b>Carissa's Wierd</b></td>
+    <td align="center">🌌 23<br><br><img src="https://img2.storyblok.com/140x140/filters:quality(80)/f/64010/600x600/2e6b5c90ab/jimmy-eat-world-futures.jpg" width="140" height="140"><br><br><b>Jimmy Eat World</b></td>
+  </tr>
+</table>
   <i>inspired by <a href="https://github.com/andyruwruw">andyruwruw</a></i>
 </p>
 
