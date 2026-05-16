@@ -22,11 +22,11 @@ Beyond my university coursework and internship projects, I am passionate about d
 ### ⚡ Current Favorites
 | 🏛️ Ode to the Mets | 🇬🇧 Don't Look Back in Anger | 🛫 Concorde | 🎤 Creep (Live) | 💧 Let Down |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="spotify-assets/track_1.svg" width="150"> | <img src="spotify-assets/track_2.svg" width="150"> | <img src="spotify-assets/track_3.svg" width="150"> | <img src="spotify-assets/track_4.svg" width="150"> | <img src="spotify-assets/track_5.svg" width="150"> |
+| <img src="https://raw.githubusercontent.com/TrevorOhlson0708/TrevorOhlson0708/main/track_1.svg" width="150"> | <img src="https://raw.githubusercontent.com/TrevorOhlson0708/TrevorOhlson0708/main/track_2.svg" width="150"> | <img src="https://raw.githubusercontent.com/TrevorOhlson0708/TrevorOhlson0708/main/track_3.svg" width="150"> | <img src="https://raw.githubusercontent.com/TrevorOhlson0708/TrevorOhlson0708/main/track_4.svg" width="150"> | <img src="https://raw.githubusercontent.com/TrevorOhlson0708/TrevorOhlson0708/main/track_5.svg" width="150"> |
 | | | | | |
 | **✨ Perfect** | **👗 Girl of the Year** | **🕯️ They'll Only Miss You...** | **🌌 23** | **🍏 Rotten Apple** |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="spotify-assets/track_6.svg" width="150"> | <img src="spotify-assets/track_7.svg" width="150"> | <img src="spotify-assets/track_8.svg" width="150"> | <img src="spotify-assets/track_9.svg" width="150"> | <img src="spotify-assets/track_10.svg" width="150"> |
+| <img src="https://raw.githubusercontent.com/TrevorOhlson0708/TrevorOhlson0708/main/track_6.svg" width="150"> | <img src="https://raw.githubusercontent.com/TrevorOhlson0708/TrevorOhlson0708/main/track_7.svg" width="150"> | <img src="https://raw.githubusercontent.com/TrevorOhlson0708/TrevorOhlson0708/main/track_8.svg" width="150"> | <img src="https://raw.githubusercontent.com/TrevorOhlson0708/TrevorOhlson0708/main/track_9.svg" width="150"> | <img src="https://raw.githubusercontent.com/TrevorOhlson0708/TrevorOhlson0708/main/track_10.svg" width="150"> |
 
   <i>inspired by <a href="https://github.com/andyruwruw">andyruwruw</a></i>
 </p>
