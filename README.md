@@ -22,13 +22,13 @@ Beyond my university coursework and internship projects, I am passionate about d
 ### ⚡ Current Favorites
 | 🏛️ Ode to the Mets | 🇬🇧 Don't Look Back in Anger | 🛫 Concorde |
 | :---: | :---: | :---: |
-| <img src="https://i.imgur.com/uR1b920.png" width="140" height="140"> | <img src="https://i.imgur.com/N47wI6X.jpeg" width="140" height="140"> | <img src="https://i.imgur.com/7bA0B4B.png" width="140" height="140"> |
+| <img src="https://coverartarchive.org/release/8e2b8655-bd03-4c92-bc10-ef50e5e0cf0a/26190772591-250.jpg" width="140" height="140"> | <img src="https://coverartarchive.org/release/a34a81b3-4f93-4cb5-8d57-1959779df5fb/6684728561-250.jpg" width="140" height="140"> | <img src="https://coverartarchive.org/release/a1d5e656-7883-49df-ba27-be0c8c0fcf9d/31422780133-250.jpg" width="140" height="140"> |
 | **The Strokes** | **Oasis** | **Black Country, New Road** |
 | **🎤 Creep (Live)** | **💧 Let Down** | **✨ Perfect** |
-| <img src="https://i.imgur.com/5V3y3xN.jpeg" width="140" height="140"> | <img src="https://i.imgur.com/FwIAn1L.jpeg" width="140" height="140"> | <img src="https://i.imgur.com/5X8x5mX.jpeg" width="140" height="140"> |
+| <img src="https://coverartarchive.org/release/12d0a071-70bf-407a-9a9a-76081be78263/13596541604-250.jpg" width="140" height="140"> | <img src="https://coverartarchive.org/release/f2066fa4-3707-4e68-bd9c-f91b5c478a0c/12217641258-250.jpg" width="140" height="140"> | <img src="https://coverartarchive.org/release/0b5514f7-e24c-47fc-8f72-736f86c23b20/22896590515-250.jpg" width="140" height="140"> |
 | **Stone Temple Pilots** | **Radiohead** | **The Smashing Pumpkins** |
 | **👗 Girl of the Year** | **🕯️ They'll Only Miss You...** | **🌌 23** |
-| <img src="https://i.imgur.com/vHqgPjN.png" width="140" height="140"> | <img src="https://i.imgur.com/Hn2z2R9.jpeg" width="140" height="140"> | <img src="https://i.imgur.com/eOnYxco.jpeg" width="140" height="140"> |
+| <img src="https://coverartarchive.org/release/df99f1fa-6f02-45e0-b6f7-df2095f90382/19445229648-250.jpg" width="140" height="140"> | <img src="https://coverartarchive.org/release/0d381048-0ca1-45f8-b397-900f68d9f4e2/8514757271-250.jpg" width="140" height="140"> | <img src="https://coverartarchive.org/release/c59d5fb3-9609-4361-b547-7589ed976fa8/6638069512-250.jpg" width="140" height="140"> |
 | **Beach House** | **Carissa's Wierd** | **Jimmy Eat World** |
   <i>inspired by <a href="https://github.com/andyruwruw">andyruwruw</a></i>
 </p>
