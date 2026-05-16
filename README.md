@@ -19,17 +19,21 @@ Beyond my university coursework and internship projects, I am passionate about d
 <h1> i really like music :headphones:</h1>
 <p>Here are a few highlights from my vinyl collection, spanning alternative rock, hip-hop, and modern pop:</p>
 
-### 🏆 All-Time Favorites
-| 💿 Is This It | 🦋 To Pimp a Butterfly | 🌅 After Hours |
-| :---: | :---: | :---: |
-| <img src="https://upload.wikimedia.org/wikipedia/en/0/09/The_Strokes_-_Is_This_It_Flipped.png" width="140" height="140"> | <img src="https://upload.wikimedia.org/wikipedia/en/f/f6/Kendrick_Lamar_-_To_Pimp_a_Butterfly.png" width="140" height="140"> | <img src="https://upload.wikimedia.org/wikipedia/en/c/c1/The_Weeknd_-_After_Hours.png" width="140" height="140"> |
-| **The Strokes** | **Kendrick Lamar** | **The Weeknd** |
-
 ### ⚡ Current Favorites
-| 🎸 Room on Fire | 🎧 Good Kid, M.A.A.D City | 🎈 House of Balloons |
+| 🏛️ Ode to the Mets | 🇬🇧 Don't Look Back in Anger | 🛫 Concorde |
 | :---: | :---: | :---: |
-| <img src="https://upload.wikimedia.org/wikipedia/en/c/c9/The_Strokes_-_Room_on_Fire.png" width="140" height="140"> | <img src="https://upload.wikimedia.org/wikipedia/en/8/83/Kendrick_Lamar_-_Good_Kid%2C_M.A.A.D_City.png" width="140" height="140"> | <img src="https://upload.wikimedia.org/wikipedia/en/a/a7/The_Weeknd_-_House_of_Balloons.png" width="140" height="140"> |
-| **The Strokes** | **Kendrick Lamar** | **The Weeknd** |
+| <img src="https://upload.wikimedia.org/wikipedia/en/e/e0/The_Strokes_-_The_New_Abnormal.png" width="140" height="140"> | <img src="https://upload.wikimedia.org/wikipedia/en/d/df/Oasis_-_Whats_the_Story_Morning_Glory_album_cover.jpg" width="140" height="140"> | <img src="https://upload.wikimedia.org/wikipedia/en/c/c2/Black_Country%2C_New_Road_-_Ants_from_Up_There.png" width="140" height="140"> |
+| **The Strokes** | **Oasis** | **Black Country, New Road** |
+
+| 🎤 Creep (Live) | 💧 Let Down | ✨ Perfect |
+| :---: | :---: | :---: |
+| <img src="https://upload.wikimedia.org/wikipedia/en/4/42/StoneTemplePilotsCore.jpg" width="140" height="140"> | <img src="https://upload.wikimedia.org/wikipedia/en/a/a1/Radiohead.okcomputer.albumart.jpg" width="140" height="140"> | <img src="https://upload.wikimedia.org/wikipedia/en/3/30/The_Smashing_Pumpkins_-_Adore.jpg" width="140" height="140"> |
+| **Stone Temple Pilots** | **Radiohead** | **The Smashing Pumpkins** |
+
+| 👗 Girl of the Year | 🕯️ They'll Only Miss You... | 🌌 23 |
+| :---: | :---: | :---: |
+| <img src="https://upload.wikimedia.org/wikipedia/en/c/c5/Beach_House_-_7.png" width="140" height="140"> | <img src="https://upload.wikimedia.org/wikipedia/en/3/3d/Songs_About_Leaving.jpg" width="140" height="140"> | <img src="https://upload.wikimedia.org/wikipedia/en/0/00/Jimmy_eat_world_-_futures.jpg" width="140" height="140"> |
+| **Beach House** | **Carissa's Wierd** | **Jimmy Eat World** |
 
 <p align="left">
   <i>inspired by <a href="https://github.com/andyruwruw">andyruwruw</a></i>
