@@ -20,16 +20,14 @@ Beyond my university coursework and internship projects, I am passionate about d
 <p>Here are a few highlights from my vinyl collection, spanning alternative rock, hip-hop, and modern pop:</p>
 
 ### ⚡ Current Favorites
-| 🏛️ Ode to the Mets | 🇬🇧 Don't Look Back in Anger | 🛫 Concorde |
-| :---: | :---: | :---: |
-| <img src="https://upload.wikimedia.org/wikipedia/en/e/e0/The_Strokes_-_The_New_Abnormal.png" width="140" height="140"> | <img src="https://upload.wikimedia.org/wikipedia/en/d/df/Oasis_-_Whats_the_Story_Morning_Glory_album_cover.jpg" width="140" height="140"> | <img src="https://upload.wikimedia.org/wikipedia/en/c/c2/Black_Country%2C_New_Road_-_Ants_from_Up_There.png" width="140" height="140"> |
-| **The Strokes** | **Oasis** | **Black Country, New Road** |
-| **🎤 Creep (Live)** | **💧 Let Down** | **✨ Perfect** |
-| <img src="https://upload.wikimedia.org/wikipedia/en/4/42/StoneTemplePilotsCore.jpg" width="140" height="140"> | <img src="https://upload.wikimedia.org/wikipedia/en/a/a1/Radiohead.okcomputer.albumart.jpg" width="140" height="140"> | <img src="https://upload.wikimedia.org/wikipedia/en/3/30/The_Smashing_Pumpkins_-_Adore.jpg" width="140" height="140"> |
-| **Stone Temple Pilots** | **Radiohead** | **The Smashing Pumpkins** |
-| **👗 Girl of the Year** | **🕯️ They'll Only Miss You...** | **🌌 23** |
-| <img src="https://upload.wikimedia.org/wikipedia/en/c/c5/Beach_House_-_7.png" width="140" height="140"> | <img src="https://upload.wikimedia.org/wikipedia/en/3/3d/Songs_About_Leaving.jpg" width="140" height="140"> | <img src="https://upload.wikimedia.org/wikipedia/en/0/00/Jimmy_eat_world_-_futures.jpg" width="140" height="140"> |
-| **Beach House** | **Carissa's Wierd** | **Jimmy Eat World** |
+| 🏛️ Ode to the Mets | 🇬🇧 Don't Look Back in Anger | 🛫 Concorde | 🎤 Creep (Live) | 💧 Let Down |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://open.spotify.com/track/1BLOVHYYlH4JUHQGcpt75R?si=dc32c0ddc0b24f3f" width="140" height="140"> | <img src="https://open.spotify.com/track/7ppPZa3TRUSGKaks9wH7VT?si=a24170cadf524c23" width="140" height="140"> | <img src="https://open.spotify.com/track/0y5akbuW5mCnnUe71xATpe?si=b96440347e8249f6" width="140" height="140"> | <img src="https://open.spotify.com/track/4BeMgHC49NFpZJf5V0LK2n?si=0de4b368254d47a1" width="140" height="140"> | <img src="https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr?si=96727a697f9e409b" width="140" height="140"> |
+| **The Strokes** | **Oasis** | **Black Country, New Road** | **Stone Temple Pilots** | **Radiohead** |
+| **✨ Perfect** | **👗 Girl of the Year** | **🕯️ They'll Only Miss You...** | **🌌 23** | **🍏 Rotten Apple** |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="PASTE_TRACK_6_LINK_HERE" width="140" height="140"> | <img src="PASTE_TRACK_7_LINK_HERE" width="140" height="140"> | <img src="PASTE_TRACK_8_LINK_HERE" width="140" height="140"> | <img src="PASTE_TRACK_9_LINK_HERE" width="140" height="140"> | <img src="PASTE_TRACK_10_LINK_HERE" width="140" height="140"> |
+| **The Smashing Pumpkins** | **Beach House** | **Carissa's Wierd** | **Jimmy Eat World** | **Alice in Chains** |
 
   <i>inspired by <a href="https://github.com/andyruwruw">andyruwruw</a></i>
 </p>
