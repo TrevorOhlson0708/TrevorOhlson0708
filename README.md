@@ -22,13 +22,13 @@ Beyond my university coursework and internship projects, I am passionate about d
 ### ⚡ Current Favorites
 | 🏛️ Ode to the Mets | 🇬🇧 Don't Look Back in Anger | 🛫 Concorde |
 | :---: | :---: | :---: |
-| <img src="https://i.postimg.cc/4N5V0X9Z/strokes-new-abnormal.png" width="140" height="140"> | <img src="https://i.postimg.cc/tJn90hC6/oasis-morning-glory.jpg" width="140" height="140"> | <img src="https://i.postimg.cc/mDtbSg9n/bcnr-ants.png" width="140" height="140"> |
+| <img src="https://i.imgur.com/uR1b920.png" width="140" height="140"> | <img src="https://i.imgur.com/N47wI6X.jpeg" width="140" height="140"> | <img src="https://i.imgur.com/7bA0B4B.png" width="140" height="140"> |
 | **The Strokes** | **Oasis** | **Black Country, New Road** |
 | **🎤 Creep (Live)** | **💧 Let Down** | **✨ Perfect** |
-| <img src="https://i.postimg.cc/D0CGrfM4/stp-core.jpg" width="140" height="140"> | <img src="https://i.postimg.cc/t4gGbyFz/radiohead-ok-computer.jpg" width="140" height="140"> | <img src="https://i.postimg.cc/fW0N6gM1/smashing-pumpkins-adore.jpg" width="140" height="140"> |
+| <img src="https://i.imgur.com/5V3y3xN.jpeg" width="140" height="140"> | <img src="https://i.imgur.com/FwIAn1L.jpeg" width="140" height="140"> | <img src="https://i.imgur.com/5X8x5mX.jpeg" width="140" height="140"> |
 | **Stone Temple Pilots** | **Radiohead** | **The Smashing Pumpkins** |
 | **👗 Girl of the Year** | **🕯️ They'll Only Miss You...** | **🌌 23** |
-| <img src="https://i.postimg.cc/9F7P3m6k/beach-house-7.png" width="140" height="140"> | <img src="https://i.postimg.cc/fRkhm9g6/carissas-wierd.jpg" width="140" height="140"> | <img src="https://i.postimg.cc/VvP3gPXP/jimmy-eat-world-futures.jpg" width="140" height="140"> |
+| <img src="https://i.imgur.com/vHqgPjN.png" width="140" height="140"> | <img src="https://i.imgur.com/Hn2z2R9.jpeg" width="140" height="140"> | <img src="https://i.imgur.com/eOnYxco.jpeg" width="140" height="140"> |
 | **Beach House** | **Carissa's Wierd** | **Jimmy Eat World** |
   <i>inspired by <a href="https://github.com/andyruwruw">andyruwruw</a></i>
 </p>
