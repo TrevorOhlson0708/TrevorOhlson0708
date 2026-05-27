@@ -16,6 +16,23 @@ Beyond my university coursework and internship projects, I am passionate about d
 
 ---
 
+<div align="center">
+
+### 💻 Tech Stack & Tools
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![Avalonia UI](https://img.shields.io/badge/Avalonia%20UI-%23333333.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
 <h1> I really like music :headphones:</h1>
 <p>Here are a few highlights from my vinyl collection
 <div align="center">
@@ -31,18 +48,5 @@ Beyond my university coursework and internship projects, I am passionate about d
 | <img src="track_9.svg" width="360" /> | <img src="track_10.svg" width="360" /> |
 
 _inspired by [andymruw](https://github.com/andymruw)_
-
----
-
-### 💻 Tech Stack & Tools
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![Avalonia UI](https://img.shields.io/badge/Avalonia%20UI-%23333333.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
