@@ -34,7 +34,7 @@ Beyond my university coursework and internship projects, I am passionate about d
 ---
 
 <h1> I really like music :headphones:</h1>
-<p>Here are a few highlights from my vinyl collection
+
 <div align="center">
 
 ### 🎵 My Favorite Tracks
