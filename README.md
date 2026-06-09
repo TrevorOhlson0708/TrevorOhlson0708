@@ -37,7 +37,7 @@ Beyond my university coursework and internship projects, I am passionate about d
 
 <div align="center">
 
-### 🎵 My Favorite Tracks
+### 🎵 My Favorite Tracks 🎸
 
 | | |
 | :---: | :---: |
