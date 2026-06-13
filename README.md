@@ -39,7 +39,6 @@ Beyond my university coursework and internship projects, I am passionate about d
 
 ### 🎵 My Favorite Tracks 🎸
 
-| | |
 | :---: | :---: |
 | <img src="track_1.svg" width="360" /> | <img src="track_2.svg" width="360" /> |
 | <img src="track_3.svg" width="360" /> | <img src="track_4.svg" width="360" /> |
