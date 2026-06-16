@@ -11,7 +11,7 @@ Beyond my university coursework and internship projects, I am passionate about d
 
 ### 💬 Let's Connect:
 * **Ask me about:** C# development, Python scripting, object-oriented software architecture, or backend automation pipelines.
-* **Fun Fact:** Started coding by accident back in 2021 and haven't stopped building since.
+* **Fun Fact:** Started coding by accident back in 2021 and haven't stopped building since :)
 * **Professional Network:** [Connect with me on LinkedIn](https://linkedin.com/in/trevor-ohlson)
 
 ---
