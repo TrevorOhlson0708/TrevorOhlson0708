@@ -1,6 +1,6 @@
 # Hello World, I'm Trevor Ohlson 👋
 
-I am an incoming Computer Science student transferring to California State University, Sacramento, and a Technical Software Intern at Matter Advantage. I specialize in backend business logic, desktop integration tools, and automation pipelines—primarily working within the C# and Python ecosystems.
+I am a Computer Science student at California State University, Sacramento, and a Technical Software Intern at Matter Advantage. I specialize in backend business logic, desktop integration tools, and automation pipelines—primarily working within the C# and Python ecosystems.
 
 Beyond my university coursework and internship projects, I am passionate about data structures, algorithmic problem-solving, and building high-performance systems that solve real-world complexities cleanly.
 
