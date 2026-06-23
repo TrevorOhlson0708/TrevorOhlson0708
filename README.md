@@ -1,4 +1,4 @@
-# Hello World, my name is Trevor Ohlson 👋
+# Hello World, Im Trevor Ohlson 👋
 
 I am a Computer Science student at California State University, Sacramento, and a Technical Software Intern at Matter Advantage. I specialize in backend business logic, desktop integration tools, and automation pipelines—primarily working within the C# and Python ecosystems.
 
