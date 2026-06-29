@@ -10,7 +10,7 @@ Beyond my university coursework and internship projects, I am passionate about d
 * **Interview Prep:** Actively solving algorithmic challenges using the LeetCode / NeetCode curriculum to master data structures and optimize runtime complexity.
 
 ### 💬 Let's Connect:
-* **Ask me about:** C# development, Python scripting, object-oriented software architecture, or backend automation pipelines.
+* **Ask me about:** C# development, Python scripting, object-oriented software architecture, or backend automation pipelines
 * **Fun Fact:** Started coding by accident back in 2021 and haven't stopped building since
 * **Professional Network:** [Connect with me on LinkedIn](https://linkedin.com/in/trevor-ohlson)
 
