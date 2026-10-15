@@ -36,24 +36,24 @@ sum          SDWORD ?
 .code
 main PROC
     INVOKE GetStdHandle, STD_INPUT_HANDLE
-    mov  inHandle, eax
+    mov inHandle, eax
     INVOKE GetStdHandle, STD_OUTPUT_HANDLE
-    mov  outHandle, eax
+    mov outHandle, eax
 
     INVOKE WriteConsoleA, outHandle, ADDR prompt1, SIZEOF prompt1, ADDR bytesWritten, 0
     call ReadNumber
-    mov  num1, eax
+    mov num1, eax
 
     INVOKE WriteConsoleA, outHandle, ADDR prompt2, SIZEOF prompt2, ADDR bytesWritten, 0
     call ReadNumber
-    mov  num2, eax
+    mov num2, eax
 
-    mov  eax, num1
-    add  eax, num2
-    mov  sum, eax
+    mov eax, num1
+    add eax, num2
+    mov sum, eax
 
     INVOKE WriteConsoleA, outHandle, ADDR resultMsg, SIZEOF resultMsg, ADDR bytesWritten, 0
-    mov  eax, sum
+    mov eax, sum
     call WriteNumber
     INVOKE WriteConsoleA, outHandle, ADDR newLine, SIZEOF newLine, ADDR bytesWritten, 0
 
@@ -63,66 +63,66 @@ main ENDP
 ReadNumber PROC
     INVOKE ReadConsoleA, inHandle, ADDR inBuffer, SIZEOF inBuffer, ADDR bytesRead, 0
 
-    mov  esi, OFFSET inBuffer
-    mov  ecx, bytesRead
-    mov  eax, 0
-    mov  ebx, 0
+    mov esi, OFFSET inBuffer
+    mov ecx, bytesRead
+    mov eax, 0
+    mov ebx, 0
 
-    cmp  BYTE PTR [esi], '-'
-    jne  NextDigit
-    mov  ebx, 1
-    inc  esi
-    dec  ecx
+    cmp BYTE PTR [esi], '-'
+    jne NextDigit
+    mov ebx, 1
+    inc esi
+    dec ecx
 
 NextDigit:
-    cmp  ecx, 0
-    je   DoneDigits
+    cmp ecx, 0
+    je DoneDigits
     movzx edx, BYTE PTR [esi]
-    cmp  edx, '0'
-    jb   DoneDigits
-    cmp  edx, '9'
-    ja   DoneDigits
-    sub  edx, '0'
+    cmp edx, '0'
+    jb DoneDigits
+    cmp edx, '9'
+    ja DoneDigits
+    sub edx, '0'
     imul eax, 10
-    add  eax, edx
-    inc  esi
-    dec  ecx
-    jmp  NextDigit
+    add eax, edx
+    inc esi
+    dec ecx
+    jmp NextDigit
 
 DoneDigits:
-    cmp  ebx, 1
-    jne  ReadDone
-    neg  eax
+    cmp ebx, 1
+    jne ReadDone
+    neg eax
 ReadDone:
     ret
 ReadNumber ENDP
 
 WriteNumber PROC
-    mov  edi, OFFSET outBuffer + SIZEOF outBuffer
-    mov  ecx, 0
-    mov  ebx, 0
-    mov  esi, 10
+    mov edi, OFFSET outBuffer + SIZEOF outBuffer
+    mov ecx, 0
+    mov ebx, 0
+    mov esi, 10
 
-    cmp  eax, 0
-    jge  NextChar
-    mov  ebx, 1
-    neg  eax
+    cmp eax, 0
+    jge NextChar
+    mov ebx, 1
+    neg eax
 
 NextChar:
-    mov  edx, 0
-    div  esi
-    add  dl, '0'
-    dec  edi
-    mov  [edi], dl
-    inc  ecx
-    cmp  eax, 0
-    jne  NextChar
+    mov edx, 0
+    div esi
+    add dl, '0'
+    dec edi
+    mov [edi], dl
+    inc ecx
+    cmp eax, 0
+    jne NextChar
 
-    cmp  ebx, 1
-    jne  PrintIt
-    dec  edi
-    mov  BYTE PTR [edi], '-'
-    inc  ecx
+    cmp ebx, 1
+    jne PrintIt
+    dec edi
+    mov BYTE PTR [edi], '-'
+    inc ecx
 
 PrintIt:
     INVOKE WriteConsoleA, outHandle, edi, ecx, ADDR bytesWritten, 0
